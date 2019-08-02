@@ -30,6 +30,7 @@ body {margin:0; padding:0}
 
 .scores table {width:340mm; border-collapse:collapse; border:1px solid #e1e1e1; font-size:16px; line-height:24px; color:#4e4e4e}
 .scores th {background:rgba(28, 72, 163, 0.06); font-weight:normal; font-style:italic; font-size:16px; line-height:19px; text-align:left; vertical-align:left; border:1px solid #e1e1e1; color:#393939; padding:28px 30px 18px 30px}
+.scores th.not-score {color:#ff2e2e}
 .scores th.col-number {padding-left:20px; padding-right:20px}
 .scores td {vertical-align:top; padding:26px 30px 23px 30px; border:1px solid #e1e1e1}
 .scores td.col-number {padding-left:20px; padding-right:20px}
